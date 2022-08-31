@@ -21,7 +21,7 @@ public class Programa extends base
         Programa.ciclo(Pos  =1);
         System.out.println("Se empieza con tercera posicion");
         Programa.ciclo(Pos  =2);
-System.out.println("Acciones terminadas");
+        System.out.println("Acciones terminadas");
 
         }
 }

@@ -126,31 +126,7 @@ public class base
    }
 }
 }
-    
 
-   // public void setarray(int a[])
-   // {
-   //     this.array = a;
-    //}
-    //public int[] getarray()
-    //{
-   //     return  array;
-   // }
-    
-    
-    
-    
-    //public  void mostrar_nrt () 
-   // {
-   // System.out.println("arrays de los alumnos: ");
-   // System.out.println(Arrays.toString(array));
-   
-
-    //}
     public base() {}
-    //public Evento(String date, String hour, String tel)
-    //{
-     //   this.array =date;
-     //   this.registro =hour;
-     //   this.telefono =tel;
+    
 }
